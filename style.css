@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+}
+
+.item {
+	margin: 0.75em;
+}
+
+a, a:visited {
+	text-decoration: none;
+}
+
